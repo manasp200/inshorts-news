@@ -1,3 +1,6 @@
+To Start Run the code
+  npm install
+  npm run dev
 
 
 
